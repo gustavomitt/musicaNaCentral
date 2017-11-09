@@ -1,0 +1,10 @@
+{
+  "config": {
+      "encoding":"FLAC",
+      "sampleRateHertz": 44100,
+      "languageCode": "pt-BR",
+  },
+  "audio": {
+      "uri":"gs://speech_teste/2017-11-04_at_13.46.26.flac"
+  }
+}
